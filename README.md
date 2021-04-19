@@ -1,3 +1,2 @@
 "# my-first-repo" 
-hello world
-my first lesson 
+Hi, how are you 
